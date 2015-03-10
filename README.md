@@ -1,0 +1,2 @@
+# magento-community
+Magento community
