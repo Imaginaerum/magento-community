@@ -1,4 +1,4 @@
-# Magento Community Edition 1.9.2.0
+# Magento Community Edition 1.9.2.1
 ===============================
 
 Magento Community Edition: https://www.magentocommerce.com
