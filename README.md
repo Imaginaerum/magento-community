@@ -1,7 +1,7 @@
-# Magento Community Edition 1.9.2.2
+# Magento Community Edition 1.9.2.3
 ===============================
 
-Includes patches: SUPEE-5344, SUPEE-5994, SUPEE-6237, SUPEE-6285, SUPEE-6482, SUPEE-6788
+Includes patches: SUPEE-5344, SUPEE-5994, SUPEE-6237, SUPEE-6285, SUPEE-6482, SUPEE-6788, SUPEE-7616, SUPEE-7405
 
 Magento Community Edition: https://www.magentocommerce.com
 
