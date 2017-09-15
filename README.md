@@ -1,8 +1,6 @@
-# Magento Community Edition 1.9.3.4 - Added Jul 12, 2017
-===============================
+# Magento Community Edition 1.9.3.6 - Added Sep 14, 2017
 
-* Includes patches: SUPEE-5344, SUPEE-5994, SUPEE-6237, SUPEE-6285, SUPEE-6482, SUPEE-6788, SUPEE-7616, SUPEE-7405, SUPEE-7405 v1.1, SUPEE-8788, SUPEE-9652, SUPEE-8167, SUPEE-9767v2
-* Resolves known issues introduced in 1.9.3.3
+* Includes patches: SUPEE-5344, SUPEE-5994, SUPEE-6237, SUPEE-6285, SUPEE-6482, SUPEE-6788, SUPEE-7616, SUPEE-7405, SUPEE-7405 v1.1, SUPEE-8788, SUPEE-9652, SUPEE-8167, SUPEE-9767v2, SUPEE-10266
 
 Magento Community Edition: https://www.magentocommerce.com
 
