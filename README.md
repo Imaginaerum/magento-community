@@ -1,6 +1,6 @@
-# Magento Community Edition 1.9.3.8 - Added Feb 27, 2018
+# Magento Community Edition 1.9.3.9 - Added Jun 27, 2018
 
-* Includes patches: SUPEE-5344, SUPEE-5994, SUPEE-6237, SUPEE-6285, SUPEE-6482, SUPEE-6788, SUPEE-7616, SUPEE-7405, SUPEE-7405 v1.1, SUPEE-8788, SUPEE-9652, SUPEE-8167, SUPEE-9767v2, SUPEE-10266, SUPEE-10415, SUPEE-10570
+* Includes patches: SUPEE-5344, SUPEE-5994, SUPEE-6237, SUPEE-6285, SUPEE-6482, SUPEE-6788, SUPEE-7616, SUPEE-7405, SUPEE-7405 v1.1, SUPEE-8788, SUPEE-9652, SUPEE-8167, SUPEE-9767v2, SUPEE-10266, SUPEE-10415, SUPEE-10570, SUPEE-10752
 Magento Community Edition: https://www.magentocommerce.com
 
 [![Latest Stable Version](https://poser.pugx.org/imaginaerum/magento-community/v/stable)](https://packagist.org/packages/imaginaerum/magento-community)
