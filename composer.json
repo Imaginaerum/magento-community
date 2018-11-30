@@ -1,10 +1,10 @@
 {
     "name": "imaginaerum/magento-community",
-    "description": "Magento Community Edition 1.9.3.10",
+    "description": "Magento Community Edition 1.9.4",
     "type": "magento-core",
     "license": "OSL-3.0",
     "homepage": "http://www.magentocommerce.com",
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.6.0"
     }
 }
