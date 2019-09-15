@@ -1,6 +1,6 @@
-# Magento Community Edition 1.9.4.1 - Added Mar 26, 2019
+# Magento Community Edition 1.9.4.2 - Added Jun 25, 2019
 
-* Includes patch SUPEE-11086 as well as all previous security patches and PHP 7.2 compatibility patch - Includes dashboard charts patch MPERF-10509.diff - Does not include Authorize.net Signature Key patch due to issues with signature generation for non-English characters in addresses
+* Includes patch SUPEE-11155 as well as all previous security patches
 
 Magento Community Edition: https://www.magentocommerce.com
 
