@@ -1,6 +1,6 @@
-# Magento Community Edition 1.9.4.2 - Added Jun 25, 2019
+# Magento Community Edition 1.9.4.3 -  Added Oct 8, 2019
 
-* Includes patch SUPEE-11155 as well as all previous security patches
+* Includes patch SUPEE-11219 as well as all previous security patches
 
 Magento Community Edition: https://www.magentocommerce.com
 
